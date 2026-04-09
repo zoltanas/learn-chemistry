@@ -3,7 +3,7 @@ import "./globals.css";
 import Sidebar from "@/components/Sidebar";
 
 export const metadata: Metadata = {
-    title: "Chemija – Interaktyvus chemijos mokymasis",
+    title: "Chemija-interaktyviai",
     description:
         "Interaktyvi chemijos mokymosi programa 12 klasės mokiniams. Reakcijos kinetika, pusiausvyra, organinė chemija, elektrochemija ir daugiau.",
 };
